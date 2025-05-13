@@ -19,9 +19,11 @@ The handwriting board partly shows touch traces.
   [![AI handwriting recognition based on STM32f746g-DISCOVERY](https://i.imgur.com/tYNr3MY.jpg)](https://youtu.be/0QSbi8sorVI)
 ## Environment
   - EVB:  STM32f746g-DISCOVERY    
-  - IDE:  keil5 with MXcube  
+  - IDE (Windows):  keil5 with MXcube
+  - Makefile (Linux)
 ## How to use it?
-  - download keil and compiler project
+  - (Windows) download keil and compiler project
+  - (Linux) arm-none-eabi- compiler
   - load into the STM32f746g-DISCOVERY 
 ## Other
 ## License
